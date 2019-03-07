@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.domain.OrderTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-03-07T11:29:03" hostname="ttn" time="0.024">
+  <properties/>
+  <testcase name="constructor" classname="demo.domain.OrderTest" time="0.003"/>
+  <testcase name="set Item Name[0]" classname="demo.domain.OrderTest" time="0.001"/>
+  <testcase name="set Item Name[1]" classname="demo.domain.OrderTest" time="0.0"/>
+  <testcase name="set Price[0]" classname="demo.domain.OrderTest" time="0.001"/>
+  <testcase name="set Price[1]" classname="demo.domain.OrderTest" time="0.0"/>
+  <testcase name="set Price With Tax[0]" classname="demo.domain.OrderTest" time="0.001"/>
+  <testcase name="set Price With Tax[1]" classname="demo.domain.OrderTest" time="0.0"/>
+  <testcase name="set Quantity[0]" classname="demo.domain.OrderTest" time="0.009"/>
+  <testcase name="set Quantity[1]" classname="demo.domain.OrderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

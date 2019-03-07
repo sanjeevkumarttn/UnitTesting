@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.StackImplSpec" tests="7" skipped="1" failures="0" errors="0" timestamp="2019-03-07T11:29:03" hostname="ttn" time="0.041">
+  <properties/>
+  <testcase name="Testing push() for success" classname="demo.StackImplSpec" time="0.015"/>
+  <testcase name="testing push() for failure" classname="demo.StackImplSpec" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Testing pop() for single item[0]" classname="demo.StackImplSpec" time="0.003"/>
+  <testcase name="Testing pop() for single item[1]" classname="demo.StackImplSpec" time="0.001"/>
+  <testcase name="Testing pop() for multiple item: 1" classname="demo.StackImplSpec" time="0.001"/>
+  <testcase name="Testing pop() for multiple item: 2" classname="demo.StackImplSpec" time="0.001"/>
+  <testcase name="Tesing push for exception" classname="demo.StackImplSpec" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
